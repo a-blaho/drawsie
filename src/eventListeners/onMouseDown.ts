@@ -1,4 +1,4 @@
-import { getHoveredShape, setShapes, shapes } from "..";
+import { getHoveredShape, setShapes, shapes } from "../canvas";
 
 export function onMouseDown({ event }: { event: MouseEvent }) {
   const selected = getHoveredShape(event);

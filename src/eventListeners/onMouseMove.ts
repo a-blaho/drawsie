@@ -1,4 +1,4 @@
-import { setShapes, shapes } from "..";
+import { setShapes, shapes } from "../canvas";
 
 export function onMouseMove({ event }: { event: MouseEvent }) {
   if (event.buttons != 1 || !shapes.some((shape) => shape.selected)) return;
