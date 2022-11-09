@@ -11,6 +11,11 @@
   "bugs": {
     "url": "https://github.com/a-blaho/drawsie/issues"
   },
+  "keywords": [
+    "diagram",
+    "graph",
+    "flowchart"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/a-blaho/drawsie#readme",
   "devDependencies": {
