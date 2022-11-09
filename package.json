@@ -1,0 +1,19 @@
+{
+  "name": "drawsie",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-blaho/drawsie.git"
+  },
+  "author": "a-blaho",
+  "bugs": {
+    "url": "https://github.com/a-blaho/drawsie/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/a-blaho/drawsie#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
